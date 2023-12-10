@@ -1,7 +1,0 @@
-{
-  "font": "NotoSerifCJKsc-VF.ttf",
-  "processed_font": "NotoSerifCJKsc-VF.ttf",
-  "force_mode": false,
-  "custom_css_mode": false,
-  "custom_css": ":root {\n\t\t--font-default: NotoSerifCJKsc-VF;\n\t\t--default-font: NotoSerifCJKsc-VF;\n\t\t--font-family-editor: NotoSerifCJKsc-VF;\n\t\t--font-monospace-default: NotoSerifCJKsc-VF,\n\t\t--font-interface-override: NotoSerifCJKsc-VF,\n\t\t--font-text-override: NotoSerifCJKsc-VF,\n\t\t--font-monospace-override: NotoSerifCJKsc-VF,\t\n\t}\n\t"
-}
