@@ -1,5 +1,6 @@
 .obsidian/fonts
 .obsidian/icons
 .obsidian/plugins/custom-font-loader/*.css
+.obsidian/plugins/**/data.json
 .obsidian/*.json
 .trash/
