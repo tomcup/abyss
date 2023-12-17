@@ -60,9 +60,9 @@
 }
 
 body {
-  --font-ui-smaller:0.75em !important;
-  --font-ui-small:0.8em !important;
-  --font-ui-medium:0.85em !important;
-  --font-ui-larger:0.9em !important;
-  --line-width:64% !important;
+  --font-ui-smaller:0.85em !important;
+  --font-ui-small:0.9em !important;
+  --font-ui-medium:0.95em !important;
+  --font-ui-larger:1em !important;
+  --line-width:110% !important;
 }
